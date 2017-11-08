@@ -1,0 +1,1 @@
+Open the CHIPTECH file in a WebBrowser

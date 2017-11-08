@@ -1,0 +1,78 @@
+@CHARSET "ISO-8859-1";
+
+
+/*#Bg{position:absolute;width:100%; height:100%;background-repeat:no-repeat;z-index:-1;}*/
+
+#logo{height:60px;}
+#NOC{position:absolute;color:rgb(89, 157, 255);letter-spacing:3px;font-size:2.8em;text-decoration:none;}
+
+
+ul{width:1230px;height:50px;border-radius:187px 187px 0px 0px;background-color:lightblue;z-index:-1;overflow:hidden;}
+li.TABS{float:left;list-style-type:none;margin-left:55px;}
+li.TABS a{text-decoration:none;display:block;padding:10px;border-radius:20px 20px 20px 20px;text-align:center;background-color:white;z-index:0;position:relative;top:20px;}
+
+
+
+/*.tabunderline{position:relative;top:-30px;width:1300px;height:2px;border:3px solid lightblue;background-color:lightblue;}*/
+/*.TTT li:after{position:olute;bottom: -1px;;border:2px solid grey;width:5px;height:5px;content:" ";right:-6px;}*/
+
+/*li::after{content:"979879";width:200px;height:110px;border:5px solid red;border-radius:87px 87px 87px 87px;}*/
+
+
+
+
+
+
+/*.whitebox{position:relative;left:3px;background-color:lightblue;top:50px;width:100%;height:70px;z-index:-1;border:no-border;}*/
+
+
+#container{position:relative;top:-500px;border:3px;padding:10px;margin-left:105px;width:420px;height:100px;}
+#info1{position:relative;top:-600;}
+
+#para{position:relative;left:550px;top:20px;width:520px;height:600px;}
+
+#FrAr{border-radius:15px;position:relative;top:-300px;left:600px;}
+#FrBk{border-radius:15px;position:relative;top:-300px;left:-600px;}
+
+.frames{scrolling:no;noresize:noresize;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Notes:*/
+/*width -is responsive. max-width-scale up to a max of original img size.
+background repeated- automatically*/
+/*1em=16px*/
+/*relative position-placed relative to its normal position
+  absolute position-placed relative to the nearest ancestor's position*/
+/*tabs---->display -inline-block-positions the list in line*/
